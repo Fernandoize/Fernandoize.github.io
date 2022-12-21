@@ -5,6 +5,17 @@
     <link>https://fernandoize.github.io/</link>
     <description>Recent content on 疯子的个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://fernandoize.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 21 Dec 2022 15:11:08 +0800</lastBuildDate><atom:link href="https://fernandoize.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distributed Lock</title>
+      <link>https://fernandoize.github.io/post/distributed-lock/</link>
+      <pubDate>Wed, 21 Dec 2022 15:11:08 +0800</pubDate>
+      
+      <guid>https://fernandoize.github.io/post/distributed-lock/</guid>
+      <description>分布式锁是一种用于在分布式环境中协调同步访问共享资源的锁。它能够保证在多台机器之间，同一时刻只有一台机器可以访问共享资源。
+实现方式 常用的分布式锁实现方式有： 基于数据库的分布式锁：使用数据库的乐观锁机制来实现分布式锁。 基于消息中间件的分布式锁：使用消息中间件的消息队列功能来实现分布式锁。 基于 Zookeeper 的分布式锁：使用 Zookeeper 的分布式协调机制来实现分布式锁。</description>
+    </item>
+    
   </channel>
 </rss>
